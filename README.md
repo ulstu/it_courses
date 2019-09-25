@@ -10,6 +10,7 @@
 
 [Чат курса](https://t.me/ulstu_xcart_pm_course)
 [Календарь курса](https://calendar.google.com/calendar/embed?src=976r20g9vafutsgo9c2ci1ek1s%40group.calendar.google.com&ctz=Europe%2FSamara)
+[iCal](https://calendar.google.com/calendar/ical/976r20g9vafutsgo9c2ci1ek1s%40group.calendar.google.com/public/basic.ics)
 
 
 # Машинное обучение
@@ -19,6 +20,7 @@
 [Чат курса](https://t.me/ulstu_ml_course)
 
 [Календарь курса](https://calendar.google.com/calendar/embed?src=b2buqaktrkpegambgsrffh4188%40group.calendar.google.com&ctz=Europe%2FSamara)
+[iCal](https://calendar.google.com/calendar/ical/b2buqaktrkpegambgsrffh4188%40group.calendar.google.com/public/basic.ics)
 
 [Материалы курса](https://github.com/ulstu/robotics_ml)
 
@@ -32,6 +34,7 @@
 [Чат курса](https://t.me/ulstu_iot_course)
 
 [Календарь курса](https://calendar.google.com/calendar/embed?src=89s87gm9iqj9q58vgrbb4uaulc%40group.calendar.google.com&ctz=Europe%2FSamara)
+   [iCal](https://calendar.google.com/calendar/ical/89s87gm9iqj9q58vgrbb4uaulc%40group.calendar.google.com/public/basic.ics)
 
 [Материалы курса](https://github.com/ulstu/iot)
 
