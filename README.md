@@ -43,3 +43,7 @@
 
 ![IoT poster](img/iot.png)
 
+
+# Схема расположения корпусов УлГТУ
+
+![Схема](img/ulstu_scheme.png)
