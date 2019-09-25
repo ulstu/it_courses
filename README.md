@@ -9,6 +9,7 @@
 Курс "Продуктовый менеджмент", проводимый совместно с компаниями X-Cart, Ecwid и другими. В России остро стоит проблема с тем, что у нас достаточно много технических проектов, но только малая часть из них вырастает в зрелый бизнес. Курс от ведущих экспертов в области продуктового менеджмента позволит студентам научиться создавать продуктовый бизнес, от поиска идеи до построения команды и управления продуктом.
 
 [Чат курса](https://t.me/ulstu_xcart_pm_course)
+
 [Календарь курса](https://calendar.google.com/calendar/embed?src=976r20g9vafutsgo9c2ci1ek1s%40group.calendar.google.com&ctz=Europe%2FSamara)
 [iCal](https://calendar.google.com/calendar/ical/976r20g9vafutsgo9c2ci1ek1s%40group.calendar.google.com/public/basic.ics)
 
