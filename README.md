@@ -15,6 +15,7 @@
 [Календарь курса](https://calendar.google.com/calendar/embed?src=976r20g9vafutsgo9c2ci1ek1s%40group.calendar.google.com&ctz=Europe%2FSamara)
 [iCal](https://calendar.google.com/calendar/ical/976r20g9vafutsgo9c2ci1ek1s%40group.calendar.google.com/public/basic.ics)
 
+[Тематический план и расписание](https://docs.google.com/spreadsheets/d/1VcmiWET40gAgXjFU-nJeGm6O7RL_WGdOm9hRNXcLS94/edit#gid=0)
 
 # Машинное обучение
 
