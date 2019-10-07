@@ -17,7 +17,13 @@
 
 [Тематический план и расписание](https://docs.google.com/spreadsheets/d/1VcmiWET40gAgXjFU-nJeGm6O7RL_WGdOm9hRNXcLS94/edit#gid=0)
 
+[Материалы курса](https://drive.google.com/drive/folders/1IbuOl7M6c-NtU8xRvy6SuhwwRl8xctmt?usp=sharing)
+
+[Домашние задания](https://docs.google.com/document/d/1Y65TQQUHOci61ChfTqhoAuMLTGR3NSz0k9JW8jIoVMQ/edit?usp=sharing)
+
 Часть спикеров будут проводить лекции удаленно с полноценной возможностью построения диалога в формате вопросов и ответов.
+
+
 
 # Машинное обучение
 
